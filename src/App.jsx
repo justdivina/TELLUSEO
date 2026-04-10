@@ -52,7 +52,7 @@ function App() {
           <DemoModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
           <footer>
             <div className="section-container">
-              <p>&copy; 2026 TELLUSEO. Conçu pour l'avenir de l'industrie minière.</p>
+              <p>&copy; 2026 <TERMINEO></TERMINEO>. Conçu pour l'avenir de l'industrie minière.</p>
             </div>
           </footer>
         </>
